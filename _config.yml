@@ -74,5 +74,5 @@ theme: tranquilpeak
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:caohenghu/blog-hexo.git
+  repo: git@github.com:caohenghu/caohenghu.github.io.git
   branch: master
