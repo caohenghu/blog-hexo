@@ -140,8 +140,9 @@ abbr {
 blockquote {
     border-left: 3px solid map-get($colors, 'base');
     padding:     0 15px;
-    font-style:  italic;
-    margin:      1.5em 0 0;
+    // font-style:  italic;
+    margin:      1.5em 0;
+    background: #f7f8f8;
 
     cite {
         &:before {
