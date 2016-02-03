@@ -228,8 +228,9 @@ blockquote {
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); }
     #about #about-card #about-btn-close {
       position: absolute;
-      top: 15px;
-      right: 15px;
+      top: 0;
+      right: 0;
+      padding: 15px;
       color: #9eabb3;
       cursor: pointer; }
       #about #about-card #about-btn-close:hover {
@@ -405,16 +406,14 @@ blockquote {
   -webkit-perspective: 1000; }
   #header #btn-open-sidebar {
     position: absolute;
-    top: 20px;
-    left: 20px;
+    padding: 20px;
     cursor: pointer; }
   #header .header-right-picture {
     position: absolute;
-    top: 12.5px;
-    right: 20px;
+    top: 0;
+    right: 0;
     display: block;
-    width: 30px;
-    height: 30px;
+    padding: 13px 20px;
     color: #88909a; }
     #header .header-right-picture .header-picture {
       display: block;

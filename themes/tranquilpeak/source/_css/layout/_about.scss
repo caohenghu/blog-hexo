@@ -8,7 +8,7 @@
     background:  map-get($about, background);
     text-align:  center;
     line-height: 100%;
-    overflow:    scroll;
+    // overflow:    scroll;
     z-index:     map-get($z-indexes, l-about);
 
     #about-card {
@@ -26,8 +26,9 @@
 
         #about-btn-close {
             position: absolute;
-            top:      15px;
-            right:    15px;
+            top:      0;
+            right:    0;
+            padding:  15px;
             color:    map-get($colors, light);
             cursor:   pointer;
 

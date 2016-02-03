@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 曹恒虎的个人主页
-subtitle: aaa
-description: bbb
+title: 曹恒虎的博客
+subtitle: 曹恒虎的博客
+description: 曹恒虎的博客
 author: 曹恒虎
 language: zh-cn
 timezone:
@@ -17,7 +17,7 @@ feed:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://localhost:4000
+url: http://caohenghu.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
