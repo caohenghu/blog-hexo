@@ -2676,7 +2676,8 @@ blockquote {
     margin-bottom: 15px; }
     #sidebar .sidebar-profile .sidebar-profile-picture {
       display: block;
-      margin: 0 auto; }
+      margin: 0 auto;
+      background: #fff; }
   #sidebar ul.sidebar-buttons {
     padding: 0;
     margin: 0 0 20px 0; }
