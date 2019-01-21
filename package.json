@@ -6,9 +6,9 @@
     "version": "3.8.0"
   },
   "scripts": {
-    "generate": "hexo generate",
-    "server": "hexo server",
-    "deploy": "hexo deploy"
+    "g": "hexo generate",
+    "s": "hexo server",
+    "d": "hexo deploy"
   },
   "dependencies": {
     "hexo": "^3.8.0",
