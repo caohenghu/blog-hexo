@@ -4,6 +4,7 @@
     (function() {
       var hm = document.createElement("script");
       hm.src = "//hm.baidu.com/hm.js?<%= theme.baidu_analytics_id %>";
+      hm.async = true
       var s = document.getElementsByTagName("script")[0];
       s.parentNode.insertBefore(hm, s);
     })();
